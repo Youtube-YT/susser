@@ -17,3 +17,4 @@ bot.loadCommands(`./commands/`);
 bot.status({
 text: "For New Updates",
 type: "WATCHING"})
+
