@@ -13,3 +13,7 @@ const bot = new Aoijs.Bot({
 
 bot.onMessage(); // Allows Commands to Executed
 bot.loadCommands(`./commands/`);
+
+bot.status({
+text: "Hello, I'm TGL, My creator is Susser_Dj#2653 | Code By Ming Wei Op#2647",
+type: "WATCHING"})
