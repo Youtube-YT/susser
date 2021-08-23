@@ -5,7 +5,7 @@ const bot = new Aoijs.Bot({
   shardAmount: 2, //Shard amount
   mobile: false, //true or false - Discord Mobile Status
   //dbhToken: "API KEY", Remove // if using, get an API Key from their Server
-  token: process.env.token, //Discord Bot Token
+  token: process.env.BOT, //Discord Bot Token
   prefix: ["+"],
   mobile: false,
   autoUpdate: ["false"]//Change PREFIX to your Prefix
