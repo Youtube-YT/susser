@@ -15,5 +15,5 @@ bot.onMessage(); // Allows Commands to Executed
 bot.loadCommands(`./commands/`);
 
 bot.status({
-text: "Hello, I'm TGL, My creator is Susser_Dj#2653 | Code By Ming Wei Op#2647",
+text: "For New Updates",
 type: "WATCHING"})
